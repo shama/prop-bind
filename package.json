@@ -14,12 +14,13 @@
     "url": "https://github.com/shama/prop-bind.git"
   },
   "files": [
-    "index.js",
-    "dist/"
+    "index.js"
   ],
   "keywords": [
-    "attach",
-    "css",
+    "property",
+    "prop",
+    "bind",
+    "binding",
     "element",
     "virtual",
     "dom",
